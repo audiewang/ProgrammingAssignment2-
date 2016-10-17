@@ -39,4 +39,4 @@ cacheSolve <- function(x, ...) {
         inv
 }
 
-##This file computing the inverse of a square matrix can be done with the solve function in R. For example, if X is a square invertible matrix, then solve(X) returns its inverse.
+##This file computing the inverse of a square matrix can be done with the solve function in R.
