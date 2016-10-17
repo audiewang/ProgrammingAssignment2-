@@ -38,5 +38,3 @@ cacheSolve <- function(x, ...) {
         x$setInverse(inv)
         inv
 }
-
-##This file computing the inverse of a square matrix can be done with the solve function in R.
